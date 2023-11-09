@@ -1,2 +1,1 @@
 occupyjulorbihouse
-home.html
